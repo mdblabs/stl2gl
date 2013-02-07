@@ -6,7 +6,7 @@ def processFile(name):
 	try:
 		fileOpened = open(name, "r")
 	except IOError:
-		print "Upps. File doesn't exit, sorry."
+		print "Upps. File doesn't exist, sorry."
 		sys.exit()
 	
 	file2write = open("opengl.cpp","w")	
