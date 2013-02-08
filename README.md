@@ -15,5 +15,5 @@ Usage:
 	
 For more help, stl2gl.py --help, or in mdb@mdblabs.com
 
-![3D stl part, into OpenGL](/example/objeto2a.jpg)
+![](/example/objeto2a.jpg 3D stl part, into OpenGL)
 
