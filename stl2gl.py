@@ -14,6 +14,7 @@ def processFile(name):
 	file2write.write("//using stl2gl.py\n")
 	file2write.write("//Github: https://github.com/mdblabs/stl2gl.git\n")
 	file2write.write("//by mdbLabs --- htt://www.mdblabs.com\n")
+	file2write.write("//A.Herrero and R.Azofra collaborations.\n")
 	
 	data=[""]
 
@@ -46,7 +47,8 @@ def usage():
 	print ""
 	print "OpenGL code generator from STL file"
 	print "by mdbLabs --- http://www.mdblabs.com"
-	print "//Github: https://github.com/mdblabs/stl2gl.git"
+	print "A.Herrero and R.Azofra collaborations."
+	print "Github: https://github.com/mdblabs/stl2gl.git"
 	print "---------------------------------------------"
 	print""
 	print "Usage: stl2gl.py [-f,--filename] name.stl [-h,--help]"
