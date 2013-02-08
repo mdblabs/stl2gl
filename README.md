@@ -13,7 +13,9 @@ Usage:
 	3.-Done! 
 	An opengl.cpp file will be generated on the folder, with the resulting code.
 	
+
+One example:
+
+![3D stl part, into OpenGL](/example/objeto2a.jpg)
+
 For more help, stl2gl.py --help, or in mdb@mdblabs.com
-
-![](/example/objeto2a.jpg 3D stl part, into OpenGL)
-
